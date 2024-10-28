@@ -2,6 +2,7 @@
 
 ## Colton Spyker
 -------------------------
+
 - **Location**: Los Angeles, CA
 - **Frameworks**: TensorFlow, PyTorch, Django, Flask, pandas, numpy, OpenCV
 - **Languages**: C++, Python, Rust, Go
