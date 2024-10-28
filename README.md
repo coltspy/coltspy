@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="./images/kawaii_cat_sleepy.gif" width="250px" /> 
+<img align="left" src="/images/kawaii_cat_sleepy.gif" width="250px" /> 
 
 ```csharp
 colton spyker
@@ -20,7 +20,11 @@ coltonspyker.com
 https://www.linkedin.com/in/coltonspyker/
 
 
-[![Colton's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltspy)]
+### GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coltspy&show_icons=true&theme=default)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coltspy&layout=compact&theme=default)
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
