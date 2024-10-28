@@ -19,12 +19,7 @@ spykercolton@gmail.com'
 coltonspyker.com
 https://www.linkedin.com/in/coltonspyker/
 
-
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=coltspy&show_icons=true&theme=default)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coltspy&layout=compact&theme=default)
+[![Colton's GitHub stats](https://github-readme-stats.vercel.app/api?username=coltspy)](https://github.com/anuraghazra/github-readme-stats)
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
