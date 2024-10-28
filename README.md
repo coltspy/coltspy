@@ -1,12 +1,12 @@
-<img align="left" src="images/kawaii-cat-sleepy-cat.gif" width="250px" />
+<img align="left" src="images/kawaii-cat-sleepy-cat.gif" width="150px" />
 
-    ## Colton Spyker
-    -------------------------
-      - **Location**: Los Angeles, CA
-      - **Frameworks**: TensorFlow, PyTorch, Django, Flask, pandas, numpy, OpenCV
-      - **Languages**: C++, Python, Rust, Go
-      - **Learning**: gRPC, Rust, ROS, OpenCV (C++)
-      - **Hobbies**: Sports, Gaming, Playing with my cat :)
+## Colton Spyker
+-------------------------
+- **Location**: Los Angeles, CA
+- **Frameworks**: TensorFlow, PyTorch, Django, Flask, pandas, numpy, OpenCV
+- **Languages**: C++, Python, Rust, Go
+- **Learning**: gRPC, Rust, ROS, OpenCV (C++)
+- **Hobbies**: Sports, Gaming, Playing with my cat :)
 
 ### Contact me at:
 - Email: [spykercolton@gmail.com](mailto:spykercolton@gmail.com)
