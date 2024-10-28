@@ -1,4 +1,4 @@
-<img align="center" src="images/kawaii-cat-sleepy-cat.gif" width="100px" />
+<img align="center" src="images/kawaii-cat-sleepy-cat.gif" width="250px" />
 
 ## Colton Spyker
 
