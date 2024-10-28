@@ -1,9 +1,7 @@
-<img align="left" src="/images/kawaii_cat_sleepy.gif" width="250px" />
+<img align="left" src="./images/kawaii_cat_sleepy.gif" width="250px" />
 
 ## Colton Spyker
 -------------------------
-- **OS**: Windows 10
-- **Pronouns**: He/Him
 - **Location**: Los Angeles, CA
 - **Frameworks**: TensorFlow, PyTorch, Django, Flask, pandas, numpy, OpenCV
 - **Languages**: C++, Python, Rust, Go
@@ -15,5 +13,3 @@
 - Website: [coltonspyker.com](https://coltonspyker.com)
 - LinkedIn: [Colton Spyker](https://www.linkedin.com/in/coltonspyker/)
 
-### GitHub Stats
-[![Colton's GitHub stats](https://github-readme-stats.vercel.app/api?username=colt
