@@ -5,10 +5,9 @@
 
 
 - **Location**: Los Angeles, CA
-- **Frameworks**: TensorFlow, PyTorch, Django, Flask, pandas, numpy, OpenCV
-- **Languages**: C++, Python, Rust, Go
-- **Learning**: gRPC, Rust, ROS
-- **Hobbies**: AI, Sports, Gaming, Playing with my cat
+- **Frameworks**: TensorFlow, PyTorch, TensorRT, CUDA, OpenCV, Deepstream SDK, scikit-learn
+- **Languages**: C++, Python, Rust
+- **Known**: Docker, Firebase
 
 ### Contact me at:
 - Email: [spykercolton@gmail.com](mailto:spykercolton@gmail.com)
