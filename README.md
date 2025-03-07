@@ -6,8 +6,7 @@
 
 - **Location**: Los Angeles, CA
 - **Frameworks**: TensorFlow, PyTorch, TensorRT, CUDA, OpenCV, Deepstream SDK, scikit-learn
-- **Languages**: C++, Python, Rust
-- **Known**: Docker, Firebase
+- **Languages**: C++, Python
 
 ### Contact me at:
 - Email: [spykercolton@gmail.com](mailto:spykercolton@gmail.com)
