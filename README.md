@@ -5,7 +5,7 @@
 
 
 - **Location**: Los Angeles, CA
-- **Frameworks**: TensorFlow, TensorRT, CUDA, NextJs, Nodejs Express
+- **Frameworks**: TensorFlow, TensorRT, CUDA, NextJs
 - **Languages**: C++, Python, Rust, Solidity
 
 ### Contact me at:
