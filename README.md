@@ -1,6 +1,6 @@
 # Colton S
  
-19 year old in los angeles building things with rust, typescript, and c++.
+19 year old building things with rust, typescript, and c++.
  
 ## Private Projects
  
