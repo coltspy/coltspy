@@ -13,7 +13,7 @@
 
 Design multi-step workflows as graphs, run them end-to-end, and let nodes share memory via session continuity.
 
-### [affiliate-rs](https://github.com/coltspy/affiliate-rs) — Affiliate link & referral management built with svelte & rust (used at bop.bet).
+### [affiliate-rs](https://github.com/coltspy/affiliate-rs) — Affiliate link & referral management built with svelte & rust.
  
 ### [launch-monitor](https://github.com/coltspy/launch-monitor) — Golf launch monitor built in c++ with imgui on a NVIDIA Jetson Orin Nano.
  
