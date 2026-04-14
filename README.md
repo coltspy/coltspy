@@ -5,10 +5,8 @@
 ## Private Projects
  
 ### [helpqueue.net](https://helpqueue.net) — A free classroom help queue that replaces raised hands with an organized, real-time request system for teachers and students (sveltekit).
- 
-### [bop.bet](https://bop.bet) — IGaming platform (sveltekit & rust axum).
 
- 
+
 ## Projects
 
 ### [claw-tree](https://github.com/coltspy/claw-tree) — A visual workflow builder and interface for the **claw-code** agent CLI. 
